@@ -1,3 +1,19 @@
+
+╔════════════════════════════════════════╗
+║                                        ║
+║    ██████╗ ███╗   ███╗████████╗███╗   ███╗
+║    ██╔══██╗████╗ ████║╚══██╔══╝████╗ ████║
+║    ██████╔╝██╔████╔██║   ██║   ██╔████╔██║
+║    ██╔══██╗██║╚██╔╝██║   ██║   ██║╚██╔╝██║
+║    ██║  ██║██║ ╚═╝ ██║   ██║   ██║ ╚═╝ ██║
+║    ╚═╝  ╚═╝╚═╝     ╚═╝   ╚═╝   ╚═╝     ╚═╝
+║                                        ║
+║         ROBOX MULTI-CLIENT             ║
+║           TAB MANAGER                  ║
+║                                        ║
+╚════════════════════════════════════════╝
+
+
 Roblox Multi-Account Tab Manager
 A powerful AutoHotkey script for managing multiple Roblox client windows with advanced window management, automatic maintenance, real-time monitoring, and full customization options.
 
